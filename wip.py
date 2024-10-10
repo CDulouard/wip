@@ -1,0 +1,1 @@
+import os;print(os.environ['HOME'][:2]);print(os.environ['HOME'][2:])
